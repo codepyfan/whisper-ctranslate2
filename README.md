@@ -1,5 +1,5 @@
 [![PyPI 版本](https://img.shields.io/pypi/v/whisper-ctranslate2.svg?logo=pypi&logoColor=FFE873)](https://pypi.org/project/whisper-ctranslate2/)
-[![PyPI 下載量](https://img.shields.io/pypi/dm/whisper-ctranslate2.svg)](https://pypistats.org/packages/whisper-ctranslate2)[!英文原版](https://github.com/Softcatala/whisper-ctranslate2)
+[![PyPI 下載量](https://img.shields.io/pypi/dm/whisper-ctranslate2.svg)](https://pypistats.org/packages/whisper-ctranslate2)[![英文原版](https://github.com/Softcatala/whisper-ctranslate2)]
 
 # 介紹
 
